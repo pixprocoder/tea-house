@@ -12,3 +12,7 @@
   font-weight: 700;
   color: #ffffff;
 }
+
+.feature-card {
+  background: linear-gradient(to top, #f4f4f4, #f4f4f4);
+}
