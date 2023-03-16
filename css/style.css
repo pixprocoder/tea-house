@@ -1,0 +1,14 @@
+.main-headline {
+  font-size: 70px;
+  font-weight: 800;
+}
+.btn-gradient img {
+  width: 16px;
+}
+.btn-gradient {
+  background: linear-gradient(to left, #ff0000, #ff8938);
+  border: none;
+  padding: 7px;
+  font-weight: 700;
+  color: #ffffff;
+}
